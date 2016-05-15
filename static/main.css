@@ -1,0 +1,19 @@
+.starter-template {
+    margin-top: 100px;
+}
+
+#channelSelector {
+    width:auto;
+    display:inline-block;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    background-size: 40px 40px;
+    border-radius: 20px;
+}
+
+.messageTime {
+    float: right;
+}

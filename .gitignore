@@ -1,0 +1,5 @@
+dist
+foo.sql
+config.js
+sandbox.json
+node_modules
